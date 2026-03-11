@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/73812e46-cbf7-4746-bad0-372b54baae2c
 ## 🔬 Physics & Computational Features
 * Implementation of integration methods (Euler/RK4) to solve the equations of motion.
 * Estimation of the **Lyapunov exponent** ($\lambda$) to quantify the chaotic divergence of nearby trajectories due to obstacle collisions (similarly to Brownian motion)
-* Extraction of the **diffusion coefficient** via linear regression of the mean squared displacement ($\langle d^2 \rangle \propto t$).
+* Extraction of the **diffusion coefficient** via linear regression of the mean squared displacement ($\langle D^2 \rangle \propto t$).
 * Implementation of magnetic fields (Lorentz force) and dynamic obstacles (phonons) to study their impact on the diffusion regime. 
 
 
