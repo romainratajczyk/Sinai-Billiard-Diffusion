@@ -3,7 +3,7 @@
 
 This repository contains a from-scratch Python/Pygame simulation of a Sinai billiard system. The goal of this project is to model how a purely deterministic, chaotic microscopic dynamic gives rise to a stochastic, macroscopic diffusion process. 
 
-This numerical experiment serves as a foundational study of stochastic processes, laying the physical intuition for understanding reverse-time diffusion in Score-Based Generative Models.
+This numerical experiment serves as a preliminary study of stochastic processes, laying the physical foundations necessary for understanding reverse-time diffusion generative models.
 
 ## 🎥 Visualizing Diffusion
 https://github.com/user-attachments/assets/73812e46-cbf7-4746-bad0-372b54baae2c
