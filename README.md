@@ -5,8 +5,8 @@ This repository contains a from-scratch Python/Pygame simulation of a Sinai bill
 
 This numerical experiment serves as a foundational study of stochastic processes, laying the physical intuition for understanding reverse-time diffusion in Score-Based Generative Models.
 
-## 🎥 Visualizing Diffusion
-*(![Sinai Simulation]([link_to_your_gif.gif](https://github.com/user-attachments/assets/73812e46-cbf7-4746-bad0-372b54baae2c))`)*
+## 🎥 Visualizing Diffus
+https://github.com/user-attachments/assets/73812e46-cbf7-4746-bad0-372b54baae2c
 
 *Red particles progressively diffuse outward through a lattice of vibrating obstacles (phonons), illustrating the dilution of information over time.*
 
