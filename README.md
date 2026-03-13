@@ -1,6 +1,8 @@
 
 # 🎱 Sinai Billiard: From Microscopic Chaos to Macroscopic Diffusion
 
+*1-month Academic Project*
+
 This repository contains a from-scratch Python/Pygame simulation of a Sinai billiard system. The goal of this project is to model how a purely deterministic, chaotic microscopic dynamic gives rise to a stochastic, macroscopic diffusion process. 
 
 This numerical experiment serves as a preliminary study of stochastic processes, laying the physical foundations necessary for understanding reverse-time diffusion generative models.
